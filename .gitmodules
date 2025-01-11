@@ -1,3 +1,6 @@
 [submodule "esp8266_mqtt"]
 	path = esp8266_mqtt
 	url = git@github.com:linbeiyao/esp8266_mqtt.git
+[submodule "ssd1306"]
+	path = ssd1306
+	url = git@github.com:linbeiyao/ssd1306.git
