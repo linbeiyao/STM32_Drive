@@ -4,3 +4,6 @@
 [submodule "ssd1306"]
 	path = ssd1306
 	url = git@github.com:linbeiyao/ssd1306.git
+[submodule "DJQ"]
+	path = DJQ
+	url = git@github.com:linbeiyao/DJQ.git
